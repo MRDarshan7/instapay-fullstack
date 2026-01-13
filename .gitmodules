@@ -1,0 +1,6 @@
+[submodule "instapay-backend"]
+	path = instapay-backend
+	url = https://github.com/MRDarshan7/instapay-backend.git
+[submodule "instapay-frontend"]
+	path = instapay-frontend
+	url = https://github.com/MRDarshan7/instapay-frontend.git
